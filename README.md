@@ -2,4 +2,6 @@
 
 ## Projeto de estudo para desenvolvimento de módulos.
 
-Faça o download do nosso projeto.
+Para instalação do módulo use:
+
+`npm i clientes-pedro-email-cpf`
