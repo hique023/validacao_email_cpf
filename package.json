@@ -1,0 +1,15 @@
+{
+  "name": "clientes-pedro-email-cpf",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "valida",
+    "cpf",
+    "valida",
+    "email"
+  ],
+  "author": "Pedro Henrique",
+  "license": "ISC"
+}
